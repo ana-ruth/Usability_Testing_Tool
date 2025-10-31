@@ -1,0 +1,21 @@
+timestamp,name,age,occupation,major,familiarity
+2025-02-21 17:49:49,Ana,18-24,student,Engineering and Technology,Somewhat Familiar
+2025-02-21 17:51:36,Ana,18-24,student,Engineering and Technology,Very Familiar
+2025-02-21 17:57:24,,45-54,student,Business and Management,Very Familiar
+2025-02-21 18:02:39,,,,Natural Sciences,
+2025-02-21 18:03:24,,55-64,,,
+2025-02-21 18:03:28,,55-64,,Education,
+2025-02-21 18:05:37,Ana,35-44,student,Engineering and Technology,Not Familiar
+2025-03-10 12:58:47,Kate,65+,Retired,,Not Familiar
+2025-03-10 13:01:31,Carlos,35-44,Architect,Engineering and Technology,Very Familiar
+2025-03-13 15:59:01,Ruth,45-54,Lawyer,,Somewhat Familiar
+2025-03-13 16:43:26,Casey,18-24,Farmer,,Somewhat Familiar
+2025-03-14 11:53:00,Jack,18-24,student,Health and Medicine,Very Familiar
+2025-03-14 12:00:33,Jaime,45-54,teacher,,Somewhat Familiar
+2025-03-14 14:27:14,Midge,25-34,Comedian,,Not Familiar
+2025-03-15 16:18:27,Joe,25-34,Doctor,Health and Medicine,Very Familiar
+2025-03-15 16:28:10,Plato,55-64,Lawyer,Arts and Humanities,Somewhat Familiar
+2025-03-15 16:58:41,Jane,45-54,Gardener,,Not Familiar
+2025-03-15 17:17:46,Ana,18-24,student,Engineering and Technology,Somewhat Familiar
+2025-03-15 17:25:09,Casey,55-64,teacher,Natural Sciences,Very Familiar
+2025-03-15 17:29:33,Ana,55-64,Architect,Engineering and Technology,Very Familiar
