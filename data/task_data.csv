@@ -1,7 +1,2 @@
 timestamp,task_name,success,duration_seconds,notes
-2025-04-16 20:32:17,"Task 1: Search for recalls of onions in Florida between April 1st, 2021, to March 5th, 2025.",Yes,80.57846689224243,
-2025-04-16 20:34:33,Task 2: View the bar chart and determine how many recalls could cause serious health problems.,Yes,27.522534608840942,
-2025-04-16 20:35:49,Task 3: Navigate through the map.,Yes,2.2159175872802734,
-2025-04-16 21:24:52,"Task 1: Search for recalls of onions in Florida between April 1st, 2021, to March 5th, 2025.",Yes,154.38429951667786,THAT WAS EASY
-2025-04-16 21:28:12,Task 2: View the bar chart and determine how many recalls could cause serious health problems.,Partial,137.20781779289246,It was hard to find the bar chart
-2025-04-16 21:29:56,Task 3: Navigate through the map.,Yes,42.042141914367676,
+
